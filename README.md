@@ -48,7 +48,7 @@ SQL projects demonstrating data extraction, transformation, and analysis using M
 
 ## 🔗 Connect With Me
 - **GitHub:** ![pillidharani27-alt](https://github.com/pillidharani27-alt ) 
-- **LinkedIn:** ![linkedin](https://www.linkedin.com/in/pillidharani  )
+- **LinkedIn:** ![LinkedIn Profile](https://www.linkedin.com/in/pillidharani)
 
 ---
 
